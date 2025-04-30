@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 Sou apaixonado por tecnologia e dados. Comecei na programação com **Front-End no ensino médio**, mas descobri minha verdadeira paixão em **Ciência de Dados** e **Inteligência Artificial** durante o ensino superior.
 
