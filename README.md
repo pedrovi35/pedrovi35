@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 
 <div>
   <a href="https://github.com/pedrovi35">
