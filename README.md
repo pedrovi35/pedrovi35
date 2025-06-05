@@ -53,10 +53,5 @@ Sou apaixonado por tecnologia e dados. Comecei na programação com **Front-End 
 - [DashCovid](https://github.com/pedrovi35/DashCovid): Análise de dados reais do SUS/MS sobre COVID
 - [Modelo-de-ML-para-Detectar-Anomalias](https://github.com/pedrovi35/Modelo-de-ML-para-Detectar-Anomalias): Detecção de anomalias com machine learning
 
-📫 Como me encontrar:
-- LinkedIn: https://www.linkedin.com/in/pedro-victor-rocha-gon%C3%A7alves-751b38294/
-
-
----
 
 ✨ Obrigado por visitar meu perfil!
