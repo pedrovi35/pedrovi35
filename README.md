@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        TRANSFORMING DATA INTO INTELLIGENCE                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 # `< Data Scientist />` 🧠
 
 ### Building the future — one model at a time.
